@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat3204" alt="rajat3204" /></a> </p>
 
-- 🔭 I’m currently working on **Dockerization, AWS, NGINX, Mongo, CICD**
+- 🔭 I’m currently working on **Dockerization, AWS, NGINX, Mongo, CICD, Jenkins, Automation**
 
 - 🌱 I’m currently learning **AWS Deep Learning, K8s, Ansible**
 
