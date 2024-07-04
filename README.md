@@ -32,3 +32,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajat3204&show_icons=true&locale=en&layout=compact" alt="rajat3204" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajat3204&show_icons=true&locale=en" alt="rajat3204" /></p>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Professional Site</title>
+    <!-- LinkedIn Badge Script -->
+    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</head>
+<body>
+    <h1>Welcome to My Professional Site</h1>
+    <p>I'm Rajat Kumar, a DevOps professional with a passion for cloud computing and automation.</p>
+    
+    <!-- LinkedIn Badge -->
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="rajat-kumar-devops" data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kumar-devops?trk=profile-badge">Rajat Kumar</a>
+    </div>
+</body>
+</html>
+
