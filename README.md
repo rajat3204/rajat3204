@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rajat-choudhary-2bb152244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajat-choudhary-2bb152244" height="30" width="40" /></a>
+<a href="<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rajat-kumardevops" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kumardevops?trk=profile-badge">Rajat Kumar</a></div>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajat-choudhary-2bb152244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
