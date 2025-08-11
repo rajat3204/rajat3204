@@ -36,7 +36,7 @@ I believe in:
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Digital Badges
 
 | Terraform Associate | AWS Educate Compute | AWS Cloud Practitioner | AWS Educate Cloud Ops | AWS Educate Databases |
 |---------------------|---------------------|------------------------|-----------------------|-----------------------|
