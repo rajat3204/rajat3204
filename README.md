@@ -34,6 +34,12 @@ I believe in:
 
 **🔹 Cloudflare Worker Routing** – Created custom routing and maintenance workflows using Cloudflare Workers and Wrangler.
 
+**🔹 Automated Infrastructure Monitoring & Cloud Integration Toolkit (Python)** – Developed Python scripts leveraging `psutil` and APIs to monitor **CPU, RAM, and Disk utilization** with **real-time Discord alerts**.  
+- Implemented **process-level analysis** to identify top resource-consuming applications.  
+- Designed **alert + recovery detection** to avoid spam notifications.  
+- Integrated with Discord Webhooks for instant incident visibility.  
+- Tech Stack: **Python, psutil, Requests, Linux, Discord API**  
+
 ---
 
 ### 📜 Certifications & Digital Badges
