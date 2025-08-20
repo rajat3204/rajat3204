@@ -69,7 +69,7 @@ I believe in:
 
 ### 📫 Connect with Me
 
-- **Mobile Number:** 8580685086
+- **Mobile Number:** +918580685086
 - **LinkedIn:** [linkedin.com/in/rajat-kumar-devops](https://www.linkedin.com/in/rajat-kumar-devops)  
 - **Email:** rajat.devops.engineer@gmail.com  
 - **Credly Badges:** [View All](https://www.credly.com/users/rajat-kumar.devops)  
