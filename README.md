@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Rajat Kumar</h1>
 <h3 align="center">
- DevOps Engineer | Helping startups scale with AWS, Kubernetes & CI/CD
+ DevSecOps Engineer | Helping startups scale with AWS, Kubernetes & CI/CD
 </h3>
 ---
 
 ### 🌟 About Me
-I’m a **DevOps Engineer** passionate about building **scalable, secure, and automated cloud solutions**.  
+I’m a **DevSecOps Engineer** passionate about building **scalable, secure, and automated cloud solutions**.  
 With expertise in **AWS**, **Kubernetes (EKS)**, **Terraform**, and **observability tooling** like **Prometheus, Grafana, Loki, and Promtail**, I help teams ship faster, monitor smarter, and operate with confidence.
 
 I believe in:
