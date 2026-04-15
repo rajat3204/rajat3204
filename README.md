@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Observability</h3>
-
+<h1 align="center">Hi, I'm Rajat Kumar</h1>
+<h3 align="center">
+ DevOps Engineer | Helping startups scale with AWS, Kubernetes & CI/CD
+</h3>
 ---
 
 ### 🌟 About Me
