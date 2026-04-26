@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajat Kumar</h1>
-<h3 align="center">DevOps Engineer | Building Scalable Cloud Infrastructure, Reliable CI/CD, and Strong Observability</h3>
+<h3 align="center">Security Engineer | DevSecOps | Cloud Infrastructure | CI/CD Security | SRE Mindset</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajat-kumar-devops">
@@ -20,16 +20,43 @@
 
 ## About Me
 
-I’m a DevOps Engineer focused on building cloud infrastructure that is scalable, secure, and easy to operate.
+I’m a Security Engineer currently working on DevSecOps and cloud projects, with a strong focus on secure delivery, cloud infrastructure, automation, and reliability.
 
-My work centers on AWS, Kubernetes, Terraform, CI/CD automation, and observability. I enjoy helping teams move faster with dependable infrastructure, streamlined delivery pipelines, and better visibility into production systems.
+I work across AWS, Kubernetes, Terraform, Jenkins, Docker, and observability tooling to help teams ship faster without compromising security, stability, or operational visibility.
+
+My background combines DevSecOps execution with production infrastructure ownership. I enjoy building systems that make software delivery faster, safer, and easier to operate at scale.
 
 I bring a practical engineering mindset to:
 
 - Designing and provisioning infrastructure with Infrastructure as Code
-- Building reliable CI/CD pipelines for faster and safer releases
-- Improving monitoring, logging, and alerting for operational visibility
-- Supporting secure, resilient, and production-ready cloud environments
+- Building secure and reliable CI/CD pipelines for faster releases
+- Strengthening software supply chain security with scanning and SBOM workflows
+- Improving monitoring, logging, and alerting for production visibility
+- Supporting resilient, secure, and operations-friendly cloud environments
+
+---
+
+## Current Position
+
+### Security Engineer - DevSecOps & Cloud Projects
+**eSec Forte Technologies** | `Dec 2025 - Present`
+
+In my current role, I work on secure CI/CD and cloud engineering initiatives with an emphasis on automation, container security, and traceable software delivery.
+
+- Design secure Jenkins Declarative pipelines for modern delivery workflows
+- Integrate container scanning and SBOM generation into CI/CD pipelines
+- Improve software supply chain visibility with Syft and Grype
+- Support secure container build practices, artifact traceability, and hardened delivery processes
+
+---
+
+## What I Bring
+
+- Experience across DevSecOps, cloud engineering, CI/CD automation, and observability
+- Hands-on delivery with AWS, Kubernetes, Docker, Terraform, Jenkins, and Linux
+- Strong focus on production readiness, release reliability, and secure engineering practices
+- Practical exposure to EKS, ingress security, monitoring stacks, and container hardening
+- A problem-solving approach centered on automation, visibility, and operational resilience
 
 ---
 
@@ -66,6 +93,9 @@ I bring a practical engineering mindset to:
 
 ## Featured Work
 
+### Secure CI/CD and Supply Chain Automation
+Built secure Jenkins-based delivery pipelines with integrated container scanning, SBOM generation, artifact traceability, and security-focused automation for cloud-native delivery workflows.
+
 ### EKS Cluster Management
 Built and managed production-grade AWS EKS clusters with high availability, cost-optimized node groups, and secure ingress using NGINX and WAF.
 
@@ -73,7 +103,7 @@ Built and managed production-grade AWS EKS clusters with high availability, cost
 Designed and deployed a Promtail -> Loki -> Grafana logging pipeline with dashboards and alerting to improve incident detection and troubleshooting.
 
 ### CI/CD Automation with Jenkins & Terraform
-Developed delivery pipelines for Docker image builds, AWS ECR pushes, and Terraform-based provisioning across multiple environments.
+Developed delivery pipelines for Docker image builds, AWS ECR pushes, and Terraform-based provisioning across multiple environments, improving release speed and deployment consistency.
 
 ### Cloudflare Worker Routing
 Created custom routing and maintenance workflows using Cloudflare Workers and Wrangler to improve traffic handling and operational flexibility.
@@ -84,6 +114,26 @@ Built Python-based monitoring scripts using `psutil` and external APIs to track 
 - Process-level visibility into top resource consumers
 - Alert and recovery detection to reduce notification noise
 - Discord webhook integration for faster incident awareness
+
+---
+
+## Career Snapshot
+
+### Security Engineer - DevSecOps & Cloud Projects
+**eSec Forte Technologies** | `Dec 2025 - Present`
+
+- Worked on secure CI/CD engineering, container security, and software supply chain visibility
+- Integrated SBOM and vulnerability scanning into delivery workflows
+- Improved delivery traceability with hardened build and artifact practices
+
+### Associate DevOps Engineer
+**Oodles Technologies** | `Jan 2024 - Dec 2025`
+
+- Managed production-grade AWS EKS environments for scalable workloads
+- Built Jenkins pipelines for Docker build, ECR push, and multi-environment deployments
+- Improved observability with Prometheus, Grafana, Loki, and Promtail
+- Strengthened edge and ingress security using NGINX, HTTPS, and Cloudflare WAF
+- Supported performance and traffic optimization through proxy tuning and caching improvements
 
 ---
 
@@ -152,9 +202,10 @@ Built Python-based monitoring scripts using `psutil` and external APIs to track 
 
 ## Why My Profile Stands Out
 
-- I combine cloud infrastructure, automation, and observability into practical, production-focused solutions
-- I focus on reliability, scalability, and faster delivery rather than tooling for its own sake
-- I enjoy building systems that are easier to deploy, monitor, and maintain
+- I bring together security, DevSecOps, cloud infrastructure, and observability in one practical engineering profile
+- I focus on building delivery systems that are secure, reliable, and production-ready
+- I enjoy turning manual operational work into repeatable, automated workflows
+- I approach infrastructure with an SRE mindset focused on resilience, visibility, and continuous improvement
 
 ---
 
