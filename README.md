@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rajat Kumar</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | CI/CD Automation | Observability</h3>
+<h3 align="center">DevOps Engineer | Building Scalable Cloud Infrastructure, Reliable CI/CD, and Strong Observability</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rajat-kumar-devops">
@@ -20,18 +20,20 @@
 
 ## About Me
 
-DevOps Engineer focused on building scalable, secure, and automated cloud infrastructure.
+I’m a DevOps Engineer focused on building cloud infrastructure that is scalable, secure, and easy to operate.
 
-I work across AWS, Kubernetes, Terraform, CI/CD, and observability tooling to help teams ship faster, monitor smarter, and operate reliably.
+My work centers on AWS, Kubernetes, Terraform, CI/CD automation, and observability. I enjoy helping teams move faster with dependable infrastructure, streamlined delivery pipelines, and better visibility into production systems.
 
-- Build infrastructure with Infrastructure as Code
-- Create reliable CI/CD pipelines
-- Improve monitoring, logging, and alerting
-- Design with security and operational resilience in mind
+I bring a practical engineering mindset to:
+
+- Designing and provisioning infrastructure with Infrastructure as Code
+- Building reliable CI/CD pipelines for faster and safer releases
+- Improving monitoring, logging, and alerting for operational visibility
+- Supporting secure, resilient, and production-ready cloud environments
 
 ---
 
-## Core Skills
+## What I Work With
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -41,11 +43,11 @@ I work across AWS, Kubernetes, Terraform, CI/CD, and observability tooling to he
 ### Containers & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Monitoring & Logging
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-000000?style=flat-square&logo=grafana&logoColor=white)
@@ -62,30 +64,30 @@ I work across AWS, Kubernetes, Terraform, CI/CD, and observability tooling to he
 
 ---
 
-## Featured Projects
+## Featured Work
 
 ### EKS Cluster Management
-Deployed and managed production-grade AWS EKS clusters with high availability, cost-optimized node groups, and secure ingress using NGINX and WAF.
+Built and managed production-grade AWS EKS clusters with high availability, cost-optimized node groups, and secure ingress using NGINX and WAF.
 
 ### Centralized Observability Stack
-Designed and deployed a Promtail → Loki → Grafana logging pipeline with dashboards and alerting for faster incident detection.
+Designed and deployed a Promtail -> Loki -> Grafana logging pipeline with dashboards and alerting to improve incident detection and troubleshooting.
 
 ### CI/CD Automation with Jenkins & Terraform
-Built pipelines for Docker image builds, AWS ECR pushes, and Terraform-based provisioning across multiple environments.
+Developed delivery pipelines for Docker image builds, AWS ECR pushes, and Terraform-based provisioning across multiple environments.
 
 ### Cloudflare Worker Routing
-Created custom routing and maintenance workflows using Cloudflare Workers and Wrangler.
+Created custom routing and maintenance workflows using Cloudflare Workers and Wrangler to improve traffic handling and operational flexibility.
 
 ### Automated Infrastructure Monitoring Toolkit
-Developed Python scripts using `psutil` and APIs to monitor CPU, RAM, and disk utilization with real-time Discord alerts.
+Built Python-based monitoring scripts using `psutil` and external APIs to track CPU, memory, and disk usage with real-time Discord alerts.
 
-- Process-level analysis for top resource consumers
-- Alert and recovery detection to reduce notification spam
-- Discord webhook integration for incident visibility
+- Process-level visibility into top resource consumers
+- Alert and recovery detection to reduce notification noise
+- Discord webhook integration for faster incident awareness
 
 ---
 
-## Certifications & Badges
+## Certifications & Credentials
 
 <details>
   <summary><strong>AWS & Terraform</strong></summary>
@@ -145,6 +147,14 @@ Developed Python scripts using `psutil` and APIs to monitor CPU, RAM, and disk u
     <a href="https://learn.microsoft.com/en-us/users/rajatkumar-3077/achievements">Microsoft Achievements</a>
   </p>
 </details>
+
+---
+
+## Why My Profile Stands Out
+
+- I combine cloud infrastructure, automation, and observability into practical, production-focused solutions
+- I focus on reliability, scalability, and faster delivery rather than tooling for its own sake
+- I enjoy building systems that are easier to deploy, monitor, and maintain
 
 ---
 
